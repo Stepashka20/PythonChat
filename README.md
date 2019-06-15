@@ -1,4 +1,4 @@
-PythonChat
+Python Chat
 ===========
 Demo chat on Python
 
