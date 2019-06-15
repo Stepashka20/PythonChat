@@ -4,7 +4,7 @@ Demo chat on Python
 
 Installation
 ===========
-Run `pip install -r PythonChat/requirements.txt to install` to install dependencies
+Run `pip install -r PythonChat/requirements.txt` to install dependencies
 
 Usage
 ===========
