@@ -5,8 +5,8 @@ chat_history = []
 
 
 class Client(Protocol):
-    ip: str = None
-    login: str = None
+    ip: str
+    login: str
     factory: 'Chat'
 
     def __init__(self, factory):
