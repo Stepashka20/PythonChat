@@ -37,7 +37,7 @@ PyQt5-sip==4.19.17
 pyqt5-tools==5.11.3.1.4
 pyserial==3.4
 python-dotenv==0.10.3
-pywin32==224
+pywin32==301
 requests==2.22.0
 service-identity==18.1.0
 six==1.11.0
